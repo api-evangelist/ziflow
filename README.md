@@ -66,30 +66,94 @@
 
 Ziflow provides an online proofing platform that streamlines content review and approval workflows for creative teams. The solution enables faster collaboration across agencies, brands, and enterprises by offering real‑time markup, version control, and automated routing. Ziflow supports integrations with tools like Monday.com and Asana, and offers use‑case specific solutions for digital advertising, packaging, video production, and web design. The platform includes a free trial, demo options, and detailed pricing information, catering to both small teams and large organizations.
 
-**Areas:** Company
+**Areas:** Company · Proofing · Collaboration · Creative · Workflow · SaaS
 
 ## Ziflow on APIs.io
 
 Everything profiled for Ziflow is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ziflow/](https://apis.io/providers/ziflow/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Ziflow API](https://apis.io/apis/ziflow/ziflow-api/) — Ziflow offers an API for integrating proofing workflows, referenced on the developer portal but without a publicly available machine‑readable specification.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ziflow Domain Security](https://apis.io/security/ziflow/ziflow-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ziflow Plans Pricing](https://apis.io/plans/ziflow/ziflow-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://ziflow.com/)
+- [Website](https://www.ziflow.com/)
 - [Documentation](https://api-docs.ziflow.com/)
 - [Getting started](https://www.ziflow.com/get-started)
 - [API reference](https://api-docs.ziflow.com/)
 - [Pricing](https://www.ziflow.com/pricing)
+- [Sign up](https://www.ziflow.com/signup)
 - [Support](https://help.ziflow.com/hc/en-us/)
 - [Blog](https://www.ziflow.com/blog)
+- [Security](https://www.ziflow.com/security)
 - [Trust centre](https://trust.ziflow.com/)
-- [Terms of service](https://www.ziflow.com/terms-of-service)
+- [Terms of service](https://www.ziflow.com/terms)
 - [Privacy policy](https://www.ziflow.com/privacy-policy)
+- [GitHub](https://github.com/ziflow)
+- [Status](https://status.ziflow.com/)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/ziflow/](https://apis.io/providers/ziflow/).
+**Kin Score 30.4** — thin · rubric 0.28.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 65.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ziflow/](https://apis.io/providers/ziflow/).
 
 ## How this profile is made
 
